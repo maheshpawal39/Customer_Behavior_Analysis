@@ -170,7 +170,7 @@ Dashboard Preview
 
 «Add your Power BI dashboard screenshot here.»
 
-![Power BI Dashboard](images/dashboard.png)
+![Power BI Dashboard](Customer_Behavior_Analysis Dashboard.png)
 
 ---
 
