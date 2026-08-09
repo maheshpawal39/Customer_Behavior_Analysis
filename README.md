@@ -265,7 +265,7 @@ Data-Analytics-Project/
 
 Step 1: Clone the Repository
 
-git clone https://github.com/your-username/data-analytics-project.git
+git clone https://github.com/maheshpawal39/data-analytics-project.git
 
 Step 2: Navigate to the Project
 
